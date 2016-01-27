@@ -4,6 +4,15 @@
 
 ---
 
+## What's in the box
+
+* Express
+* Angular Seed Template
+* jQuery
+* Bootstrap 4
+
+---
+
 ## Dependencies
 
 * [npm](https://github.com/npm/npm)
